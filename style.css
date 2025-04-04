@@ -1,0 +1,69 @@
+.center-text {
+  text-align: center;
+}
+
+.languages-header {
+  color: rgb(0, 0, 128);
+}
+
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-me{
+  text-align: center;
+}
+
+.me-header{
+  color: rgb(0, 0, 128);
+}
+.Ed-background{
+  max-width: 350px;
+}
+
+.ed-header{
+  color:rgb(0, 0, 128);
+}
+#skillsbuild{
+  text-decoration: none;
+}
+#ec-council{
+ text-decoration: none; 
+}
+#edx{
+  text-decoration: none;
+}
+
+.interests{
+  text-align: center;
+}
+
+.int-header{
+  color: rgb(0, 0, 128);
+}
+
+footer{
+  text-align: center; 
+}
+
+.contact{
+  color: rgb(0, 0, 128);
+}
+.projects{
+  max-width: 300px;
+}
+ 
+.project-header{
+  color: rgb(0, 0, 128);
+}
+
+body{
+  height: 100%;
+}
+body{
+  background-image: url(Blue\ thing.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
